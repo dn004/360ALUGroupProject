@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028331, g: 0.2257133, b: 0.3069217, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -272,7 +272,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Thank you for visiting the ALU campus! You\u2019ve explored 5 unique rooms,
+  m_text: "Thank you for visiting the ALU campus! You\u2019ve explored 4 unique rooms,
     each showcasing different aspects of this vibrant environment. We hope you enjoyed
     the journey and gained new insights. Feel free to return and discover more. To
     exit, interact with the glowing icon"
