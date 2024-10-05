@@ -35,3 +35,8 @@ This 360 walkthrough includes the following interactive buttons:
 
 ## Reason for Selection
 The walkthrough was designed to give prospective and new students a glimpse into the daily life of an ALU student. The chosen path—from the classroom to the resource center—represents a typical student journey on campus, showing how students move between classes, take breaks in the lobby, and eventually reach the resource center to study.
+
+## Download the APK
+
+[Download APK](https://drive.google.com/file/d/1z0pheL50f-eiGSo4uraDlGlcqMxCWWlX/view?usp=sharing)
+
